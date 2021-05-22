@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Act4_m4
+Exec="/home/pi/Desktop/SOC/script/prueba_8"
+Icon = /home/pi/Desktop/SOC/Reto/play_pause.jpeg
+Terminal=false (tried true)
+Comment="Actividad 4 Mod 4"
