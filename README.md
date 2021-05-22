@@ -6,7 +6,7 @@
 #Alan Mondragón Rivas - A01734565 
 #Created 20 May, 2021
 
-
+#LINK: https://youtu.be/ya0meQLrdHQ
 # This program functions as an mp3 player in a digital interface.
 #It has play, pause, next and previous buttons
 #Also you can select the song with the buttons from 0 to 9
